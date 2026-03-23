@@ -1,0 +1,10 @@
+baseURL = "https://sisy.cam/"
+languageCode = "en-us"
+title = "SISY.cam - Record Your Speaker Intro"
+
+[params]
+  description = "Record your speaker intro in 2 minutes. Browser-based recording with guided prompts, auto-transcription, and AI enhancements for women experts."
+  tagline = "Record your speaker intro in 2 minutes."
+
+[markup.goldmark.renderer]
+  unsafe = true
